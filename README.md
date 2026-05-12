@@ -5,5 +5,5 @@
 - Munich, Germany
 
 #### Goals:
-- Make $1M in rev before 20
+- Build cool stuff
 - Complete an ironman
